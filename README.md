@@ -1,6 +1,13 @@
 # Fastlane
 
-**TODO: Add description**
+The Elixir programming language developers have focused efforts on de-facto web application library. This presentation covers the Plug specification, using the web server adapters, and composing Plug modules/functions into larger web applications.
+
+This demo project was created during an Elixir Louisville meetup.
+
+- [Elixir Louisville](http://www.meetup.com/Elixir-Louisville/)
+- [Slides](https://speakerdeck.com/slogsdon/plug-friend-of-web-developers)
+- [Presentation Screencast](https://www.youtube.com/watch?v=-gev84S9_-c)
+- [Demo Screencast](https://www.youtube.com/watch?v=tfRD_e-yvOE)
 
 ## Installation
 
